@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+studing in henu
 <!--
 **tuling1900/tuling1900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
